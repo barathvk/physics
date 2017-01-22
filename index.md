@@ -1,4 +1,4 @@
 # AP Physics 1
 
-## Table of Contents
-  1. [Vector Algebra](p/vectors.md)
+## Lessons
+  1. [Vector Algebra](pages/vectors.md) (15 Jan 2017)

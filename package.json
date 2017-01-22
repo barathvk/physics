@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified.\"",
-    "dev": "live-server --port=3000 --no-browser --spa"
+    "dev": "live-server --port=3000 --no-browser"
   },
   "repository": {
     "type": "git",
