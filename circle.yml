@@ -2,4 +2,4 @@ deployment:
   production:
     branch: master
     commands:
-      - surge --domain physics.barath.ga
+      - surge --domain physics.barath.ga --path .
