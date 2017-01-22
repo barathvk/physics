@@ -1,0 +1,22 @@
+{
+  "name": "physics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barathvk/physics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barathvk/physics/issues"
+  },
+  "homepage": "https://github.com/barathvk/physics#readme",
+  "devDependencies": {
+    "surge": "^0.18.0"
+  }
+}
