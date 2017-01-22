@@ -22,3 +22,7 @@
 [Math Concepts]()
 
   * [Vector Algebra](pages/vectors.md)
+
+[Kinematics]()
+
+  * [Kinematics in 2D](pages/kinematics.md)
